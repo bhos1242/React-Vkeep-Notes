@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Vkeep-Notes/static/css/main.0e4e372c.css",
+    "main.js": "/React-Vkeep-Notes/static/js/main.ff134c80.js",
+    "static/js/787.87d5e785.chunk.js": "/React-Vkeep-Notes/static/js/787.87d5e785.chunk.js",
+    "index.html": "/React-Vkeep-Notes/index.html",
+    "main.0e4e372c.css.map": "/React-Vkeep-Notes/static/css/main.0e4e372c.css.map",
+    "main.ff134c80.js.map": "/React-Vkeep-Notes/static/js/main.ff134c80.js.map",
+    "787.87d5e785.chunk.js.map": "/React-Vkeep-Notes/static/js/787.87d5e785.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4e372c.css",
+    "static/js/main.ff134c80.js"
+  ]
+}
